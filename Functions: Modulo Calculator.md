@@ -18,3 +18,5 @@ To write a Python program that defines a function which accepts two values and r
 <img width="32" height="83" alt="image" src="https://github.com/user-attachments/assets/b0d19ada-f227-4ef8-8dd8-502858c2b68b" />
 
 ## Result
+Thus, the above asked program is encoded and excecuted.
+
